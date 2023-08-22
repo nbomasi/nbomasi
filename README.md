@@ -3,10 +3,9 @@
 <h1>I am Nwakegho Bomasi</h1>
 I'm a Cloud/DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, and Infrastructure Automation.
 
-- 🌱 I’m currently working on different projects
+- 🌱 I’m currently working on different projects.
 - 👯 I’m looking to collaborate on: DevOps and Cloud Engineering.
-- 📫 How to reach me: nbomasi@gmail.com; confidenceimasi@gmail.com; linkedin.com/in/nwakegho-bomasi
-- ⚡ Fun fact: Playing football
+- ⚡ Fun fact: Playing football.
 
 ## 🔧Technologies and Tools
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
