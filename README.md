@@ -43,6 +43,10 @@ Production-oriented ECS Fargate reference architecture using Terraform, GitHub A
 
 CloudFormation reference architecture connecting three private VPCs through AWS Transit Gateway with explicit route-table control, centralized VPC Flow Logs, and no public ingress.
 
+### [OpenShift Customer PoC](https://github.com/nbomasi/openshift-customer-poc)
+
+Customer-style proof of concept deploying a Django and PostgreSQL application on Red Hat OpenShift with Source-to-Image builds, ImageStreams, persistent storage, and an HTTPS edge Route. Includes an environment assessment, implementation plan, test report, and a troubleshooting log written as support tickets.
+
 ## Certifications
 
 - AWS Certified Solutions Architect
